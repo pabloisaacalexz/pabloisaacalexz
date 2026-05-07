@@ -1,5 +1,5 @@
 - 🚶‍♂️  Pablo Zúñiga Rodríguez-Peña, chilean
-- ➕ Applied Mathematics student, University of Chile
+- ➕ PhD student at LPSM, Sorbonne Université
 - 🎲 Research area and interests: Probability and Stochastic Processes, Gaussian Free Field, Stochastic Control
 - 📈 I like to simulate probabilistic objects
 - 🌐 Check out my website for more information: https://www.dim.uchile.cl/~pzuniga/
